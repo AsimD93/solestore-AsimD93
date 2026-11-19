@@ -9,9 +9,6 @@ use Illuminate\Database\Seeder;
 
 class SneakersSeeder extends Seeder
 {
-    /**
-     * Run the database seeds.
-     */
     public function run(): void
     {
         $nike = Brand::where('name', 'Nike')->first();
