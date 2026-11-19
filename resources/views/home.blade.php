@@ -11,6 +11,8 @@
     <nav>
         <a href="/over">Over SoleStore</a>
         <a href="/contact">Contact</a>
+        <a href="/brands">Merken</a>
+        <a href="/sneakers">Sneakers</a>
     </nav>
 </body>
 </html>
